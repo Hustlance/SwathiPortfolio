@@ -179,7 +179,7 @@ export const projects = [
     tags: ["React Js","Node JS", "Express JS","MongoDB","CSS"],
     category: "MERN STACK",
     github: "https://github.com/swathi-041/exam",
-    webapp: "",
+    webapp: "https://eduquest-nine.vercel.app/exams",
   },
   {
     id: 2,
