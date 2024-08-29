@@ -209,7 +209,7 @@ export const projects = [
       "Javascript",
     ],
     category: "web app",
-    github: "https://github.com/swathi-041/swathiportfolio",
+    github: "https://github.com/swathi-041/portfoliooo",
     webapp: "",
   },
   {
