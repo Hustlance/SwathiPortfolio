@@ -25,7 +25,8 @@
   .hero-bg {
     position: absolute;
     display: flex;
-    justify-content: end;
+    justify-content: flex-flex-end;
+    align-items: flex-flex-end;
     top: 0;
     right: 0;
     bottom: 0;
@@ -92,7 +93,7 @@
     width: 100%;
     display: flex;
     order: 2;
-    justify-content: end;
+    justify-content: flex-end;
     gap: 12px;
   }
   
