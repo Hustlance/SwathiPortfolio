@@ -9,7 +9,7 @@ export const Bio = {
    "I am an undergraduate student with a strong passion for web development and software engineering. My experience includes building full-stack applications, and I actively contribute to community service through my role as an NSS event organizer. I am committed to both advancing my technical skills and making a positive impact on the community.",
   github: "https://github.com/swathi-041/",
   resume:
-    "https://docs.google.com/document/d/1iPUCOt_-0khuI0bAv1o3EXqHh0WqS0Ot-fLXwNCoRlE/edit",
+    "https://docs.google.com/document/d/1MaLnKue3RhZmyYVsNIJ6Do_4gxe-xVRQUAOwRo5pxuw/edit",
   linkedin: "https://www.linkedin.com/in/swathi-samudrala-bbb46b265/",
   insta: "https://www.instagram.com/swathi__samudrala?igsh=bjQyOXJ4MnNweGhu",
 };
