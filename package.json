@@ -1,7 +1,8 @@
 {
   "name": "swathi-samudrala-portfolio",
   "version": "0.1.0",
-  "homepage": "https://swathi-041.github.io/portfoliooo",
+  "homepage": ".",
+
    "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

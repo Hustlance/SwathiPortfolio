@@ -1,6 +1,5 @@
-// HeroSection.js
 import React from 'react';
-import Swathi from '../../images/swathisamudrala.jpg';
+import Swathi from '../../images/swathisamudrala.jpg'; // Ensure this path is correct
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 import './HeroStyle.css'; // Import the CSS file
@@ -10,6 +9,7 @@ const HeroSection = () => {
     <div id="about">
       <div className="hero-container">
         <div className="hero-bg">
+          {/* Background content, if any */}
         </div>
         <div className="hero-inner-container">
           <div className="hero-left-container" id="Left">
@@ -27,7 +27,7 @@ const HeroSection = () => {
               </span>
             </div>
             <div className="subtitle">{Bio.description}</div>
-            <a className="resume-button" href={Bio.resume} target='display'>Check Resume</a>
+            <a className="resume-button" href={Bio.resume} target='_blank' rel='noopener noreferrer'>Check Resume</a>
           </div>
 
           <div className="hero-right-container" id="Right">
